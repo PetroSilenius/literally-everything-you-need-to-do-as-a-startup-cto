@@ -9,9 +9,12 @@ This repository was created for a talk at Aurajoki Overflow, a finnish tech meet
 
 https://canva.link/startup-cto-todo
 
-
 ## Github project
 
 Listing 191 items as todo for a new startup CTO
 
 https://github.com/users/PetroSilenius/projects/4/views/2
+
+## Live audience poll
+
+https://www.mentimeter.com/app/presentation/alx6u5rwp1268viqadaczf5s8x2e25f1/edit?source=share-modal
